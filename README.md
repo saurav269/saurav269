@@ -16,9 +16,9 @@
 <br/>
 
 - 🔭 I’m currently working on **Portfolio**
-- 
+ 
 - 🌱 I’m currently learning **MERN Stack Dev.**
-- 
+
 - 📫 How to reach me: **sauravmallik786@gmail.com**
 
 - ⚡ Fun fact:**I am Dog Lover**
