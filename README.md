@@ -12,20 +12,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMallik&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMallik" /> </p>
 
 ## :sassy_man:  About me
- I am a passionate and self-motivated aspiring full-stack developer from WestBengal(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡.I always stay hungry to learn new things🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+ I am a passionate and self-motivated aspiring full-stack developer from West Bengal(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡.I always stay hungry to learn new things🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br/>
 
-<!--
-**saurav269/saurav269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Portfolio**
+- 
+- 🌱 I’m currently learning **MERN Stack Dev.**
+- 
+- 📫 How to reach me: **sauravmallik786@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:**I am Dog Lover**
