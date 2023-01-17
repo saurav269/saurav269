@@ -31,7 +31,6 @@
 
 -  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1NkrMnLei3JcmZzVIsE_5Bv_tPjOcq7Yb/view)
 
-<br/>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
   <a href="https://github.com/Shivamt2107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
