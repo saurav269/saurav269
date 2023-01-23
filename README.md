@@ -100,21 +100,22 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=algolia" align="center" alt="saurav269" width="100%" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&theme=dracula" alt="saurav269theme=2077" width="60%" /></p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=2077" alt="saurav" width="80%" /></a> </p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav269&show_icons=true&locale=en&theme=2077" alt="saurav269" width="60%" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=algolia" align="center" alt="saurav269" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav269&theme=2077" width="100%" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saurav269&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/saurav269/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saurav269&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/saurav269/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/saurav269)  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav269&show_icons=true&locale=en&theme=dracula" alt="saurav269" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&theme=dracula" alt="saurav269theme=dracula" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=dracula" alt="saurav" /></a> </p>
 
 <p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=saurav269&theme=monokai" alt="saurav269" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=saurav269&theme=dracula" alt="saurav269" /></a>
 </p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/saurav269/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=saurav269">
