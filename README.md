@@ -100,7 +100,7 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&theme=dracula" alt="saurav269theme=2077" width="60%" /></p>
+<p aling="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&theme=dracula" alt="saurav269theme=2077" width="60%" /></p>
 
 <p align="center">
   <a href="https://github.com/saurav269">
