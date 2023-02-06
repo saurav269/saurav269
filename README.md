@@ -104,7 +104,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=2077" alt="saurav" width="80%" /></a> </p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav269&show_icons=true&locale=en&theme=2077" alt="saurav269" width="60%" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav269&show_icons=true&locale=en&theme=2077" alt="saurav269" width="60%" /></p> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=saurav269&theme=algolia" align="center" alt="saurav269" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav269&theme=2077" width="100%" />
