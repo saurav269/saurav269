@@ -100,7 +100,16 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<p aling="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&theme=dracula" alt="saurav269theme=2077" width="60%" /></p>
+<!-- <p aling="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&theme=dracula" alt="saurav269theme=2077" width="60%" /></p> -->
+</br>
+
+</br>
+  <p align="center">
+    <a href="https://github.com/saurav269/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saurav269 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav269&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" width="65%"/>
+    </a>
+</p> 
+</br>
 
 <p align="center">
   <a href="https://github.com/saurav269">
@@ -130,3 +139,4 @@
     <img src="https://komarev.com/ghpvc/?username=saurav269">
 </a>
 <a href="https://github.com/Shivamt2107?tab=followers"><img src="https://img.shields.io/github/followers/saurav269?label=Followers&style=social" alt="GitHub Badge"></a>
+
