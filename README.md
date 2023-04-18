@@ -29,7 +29,7 @@
 
 -  📫 How to reach me: **sauravmallik786@gmail.com**
 
--  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1NkrMnLei3JcmZzVIsE_5Bv_tPjOcq7Yb/view)
+-  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1l6vgO_Tro_r7QjL5bnBczkgYOBNOqulQ/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
